@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+/*First lab*/
 int main()
 {
    float x = 2.735;
